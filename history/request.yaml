@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSP-SP001-09-CTDPFJ000-telemetered-ctdpf_j_cspp_instrument
-last_request: '2022-01-21T18:10:12.078521Z'
+last_request: '2022-02-07T17:29:31.710979Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSP-SP001-09-CTDPFJ000-telemetered-ctdpf_j_cspp_instrument/main/history/response.json
 status: discontinued
